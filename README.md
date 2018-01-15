@@ -1,5 +1,7 @@
 # SECURITY - RESOURCES : **BEGINNER TO ADVANCED FOR ALL SECURITY FOLKS.**
 
+![Image of hackercat](https://r00tb3.github.com/images/cat.jpg)
+
 **JUST LIKE ME THERE ARE PLENTY OF PEOPLE WHO ARE LOOKING FOR SECURITY RESOURCES AND WE KEEP ON SEARCHING FOR TORRENTS, DRIVE LINKS AND MEGA LINKS WHICH CONSUMES A LOT OF BANDWIDTH SO I DECIDED TO CURATE THE LIST OF PLAY-LIST'S FREELY AVAILABLE ON THE WEB *(MOSTLY ON YOUTUBE)* TO HELP OTHERS GET STARTED IN THE FIELD OF INFOSEC.** 
 
 **THE FOLLOWING LINKS PROVIDED ARE FROM DIFFERENT CHANNEL'S ON YOUTUBE FROM VARIOUS AUTHOR'S TO HELP YOU LEARN I DO NOT OWN THEM I'VE JUST CURATED THEM  TOGEHTER SO THE CREDIT GOES TO THEM. I KNOW THE LIST IS INCOMPLETE AND THERE MIGHT ME MORE TON'S OF PLAY-LISTS WHICH WILL BE ADDED LATER.**
@@ -10,9 +12,9 @@
 
 ***I WILL BE UPDATING THIS LIST IN FUTURE SO STAY TUNED!!***
 
-***
-### *FUNDAMENTALS..* ###
 
+### *FUNDAMENTALS..* ###
+***
 * Computer Science - CRASH COURSE...
 
   	https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
@@ -58,7 +60,7 @@
     https://www.youtube.com/user/hupstream/playlists 
 
 ### *PENETRATION TESTING!!!* ###
-
+***
 * Pentester Lab Network
 
 	https://www.youtube.com/playlist?list=PL8JzjH888lZUiTY-uXdo-aSrhqZXturI6
@@ -119,10 +121,8 @@
 
 	https://www.youtube.com/user/Hak5Darren/playlists
 
-
-
 ### *WEB-APP SECURITY* ###
-
+***
 * Website Security: Web Application Penetration Testing (OWASP TOP 10)
   
     https://www.youtube.com/playlist?list=PLp4w7b_XLssS2d2gbkesLY5uSxWoufdkN
@@ -140,13 +140,14 @@
     https://www.youtube.com/playlist?list=PL8JzjH888lZVNJgGr7KyJ2QdozxM5fGz4
 
 ### *ANDROID / iOS PENTESING* ###
+***
 
 * Billy Ellis - iOS Hacking/Security Research Tutorials
 
 	https://www.youtube.com/playlist?list=PL-slHQxWd9GkhKu8oXXrIHFI_EoVHQqSA
 
 ### *REVERSE ENGINEERING / DEBUGGING / EXPLOIT DEVELOPMENT* ###
-
+***
 
 * Vikram Salunke(x86)
 
@@ -170,7 +171,7 @@
 
 
 ### *MALWARE ANALYSIS / FORENSICS* ###
-
+***
 * MalwareAnalysisForHedgehogs(MALWARE ONLY)
 
 	https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A/playlists
@@ -184,7 +185,7 @@
 	https://www.youtube.com/playlist?list=PL7gCgFw1RV1NhOR51XXfiDk8ZCmyU_BpG
 
 ### *CRYPTOGRAPHY..* 
-
+***
 * Cryptography Lectures- *(PROF.CHRISTOFPARR)*
   
 	https://www.youtube.com/playlist?list=PLoJC20gNfC2gAB-eg7oaUTheB_JgQY4-q
@@ -195,13 +196,13 @@
 
 
 ### *WIRELESS* ###
-
+***
 * CWNA
   
 	 https://www.youtube.com/playlist?list=PLqBIVzTcm3GEnmKQELxg30sQfAXehdC3f
 
 ### *TELECOMMUNICATIONS SECURITY* ###
-
+***
 * GSM Training
 
 	https://www.youtube.com/playlist?list=PL-XjHn7CHrmTdl365uztpUVLx4zwbFgbl
@@ -247,6 +248,7 @@
 	https://www.youtube.com/playlist?list=PLPmwwVknVIiXGzKhtimTMjhcyppeRRsnE
 
 ### *GSM EXPLOITATION* ###
+***
 
 * GSM Sniffing & Hacking
 
