@@ -1,14 +1,20 @@
 # SECURITY-RESOURCES
+
+
 ##*FROM BEGINNER TO ADVANCED FOR ALL SECURITY ENTHUSIASTS.*
+
+
 ###*I'LL KEEP UPDATING THIS LIST IN FUTURE STAY TUNED!!*
 
 FUNDAMENTALS..
 
 Computer Science - CRASH COURSE...
-	https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
+
+https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
 
 Basic Courses.(7 courses must do)
-   https://www.youtube.com/playlist?list=PLktKStRxdIxYV9JSvUe1T-a6VamT9mdHK
+
+https://www.youtube.com/playlist?list=PLktKStRxdIxYV9JSvUe1T-a6VamT9mdHK
 
 CompTIA A+ 901 & 902 
    https://www.youtube.com/playlist?list=PLQryb-FUreLBsGjFDmMZfmaCa-0XV-geq
