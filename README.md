@@ -3,7 +3,7 @@
 ***FROM BEGINNER TO ADVANCED FOR ALL SECURITY ENTHUSIASTS.***
 ***I'LL KEEP UPDATING THIS LIST IN FUTURE STAY TUNED!!***
 
-***FUNDAMENTALS..***
+#####*FUNDAMENTALS..*#####
 
 * Computer Science - CRASH COURSE...
 
@@ -49,24 +49,24 @@
 
   https://www.youtube.com/user/hupstream/playlists 
 
-***PENTESTING!!!***
+#####*PENTESTING!!!*#####
 
 *SAM BOWNE'S SERIES*
 
-	- Sam Bowne - Ethical Hacking and Network Defense
-	  https://www.youtube.com/playlist?list=PL7gCgFw1RV1P94lNy8Xk5UdjwFLVtIOij
+  - Sam Bowne - Ethical Hacking and Network Defense
+    - https://www.youtube.com/playlist?list=PL7gCgFw1RV1P94lNy8Xk5UdjwFLVtIOij
 
-	- Sam Bowne - Securing Web Applications
-	  https://www.youtube.com/playlist?list=PL7gCgFw1RV1M6vJFX1RPDhgPZbg9qU3ub
+  - Sam Bowne - Securing Web Applications
+    - https://www.youtube.com/playlist?list=PL7gCgFw1RV1M6vJFX1RPDhgPZbg9qU3ub
 
-	- Sam Bowne - Computer Forensics
-	  https://www.youtube.com/playlist?list=PL7gCgFw1RV1NhOR51XXfiDk8ZCmyU_BpG
+  - Sam Bowne - Computer Forensics
+    - https://www.youtube.com/playlist?list=PL7gCgFw1RV1NhOR51XXfiDk8ZCmyU_BpG
 
-	- Sam Bowne - Practical Malware Analysis
-	  https://www.youtube.com/playlist?list=PL7gCgFw1RV1PgrZftw3kd23cLjobGEStR
+  - Sam Bowne - Practical Malware Analysis
+    - https://www.youtube.com/playlist?list=PL7gCgFw1RV1PgrZftw3kd23cLjobGEStR
 
-	- Sam Bowne - Exploit Development
-	  https://www.youtube.com/playlist?list=PL7gCgFw1RV1N9Lqfyp-eIgKSb1KTp1ifm
+  - Sam Bowne - Exploit Development
+    - https://www.youtube.com/playlist?list=PL7gCgFw1RV1N9Lqfyp-eIgKSb1KTp1ifm
 
 
 *WEB-APP SECURITY*
