@@ -1,8 +1,10 @@
-# SECURITY-RESOURCES
+# SECURITY-RESOURCES : **BEGINNER TO ADVANCED FOR ALL SECURITY FOLKS.**
 
-***FROM BEGINNER TO ADVANCED FOR ALL SECURITY ENTHUSIASTS.***
+**JUST LIKE ME THERE ARE PLENTY OF PEOPLE WHO ARE LOOKING FOR SECURITY RESOURCES AND WE KEEP ON SEARCHING FOR TORRENTS, DRIVE LINKS AND MEGA LINKS WHICH CONSUMES A LOT OF BANDWIDTH SO I DECIDED TO CURATE THE LIST OF PLAY-LIST'S FREELY AVAILABLE ON THE WEB *(MOSTLY ON YOUTUBE)* TO HELP OTHERS GET STARTED INT HE FIELD OF INFOSEC.** 
 
-***I WILL BE UPDATING THIS LIST IN FUTURE SO STAY TUNED!!***
+**THE FOLLOWING LINKS PROVIDED ARE FROM DIFFERENT CHANNEL'S OF YOUTUBE FROM VARIOUS AUTHOR'S TO HELP YOU LEARN I DO NOT OWN THEM I'VE JUST CURATED THEM  TOGEHTER. I KNOW THE LIST IS INCOMPLETE AND THERE MIGHT ME MORE TON'S OF PLAY-LISTS WHICH WILL BE ADDED LATER.**
+
+***FEEL FREE TO CONTACT ME *(CHECK MY PROFLE TO CONTACT)* TO ADD MORE LINKS TO THIS LIST. I WILL BE UPDATING THIS LIST IN FUTURE SO STAY TUNED!!***
 
 ##### *FUNDAMENTALS..* #####
 
@@ -50,12 +52,11 @@
 
     https://www.youtube.com/user/hupstream/playlists 
 
+##### *PENETRATION TESTING!!!* #####
 
 * Pentester Lab Network
 
 	https://www.youtube.com/playlist?list=PL8JzjH888lZUiTY-uXdo-aSrhqZXturI6
-
-##### *PENETRATION TESTING!!!* #####
 
 * How To Become A Penetration Tester
 
@@ -68,6 +69,10 @@
 * Sam Bowne - Ethical Hacking and Network Defense
     
 	https://www.youtube.com/playlist?list=PL7gCgFw1RV1P94lNy8Xk5UdjwFLVtIOij
+
+* LiveOverflow
+
+	https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w/playlists
 
 * Kali Linux - Complete Training Program from Scratch
 
@@ -85,10 +90,31 @@
 
     https://www.youtube.com/playlist?list=PL9HO6M_MU2nesxSmhJjEvwLhUoHPHmXvz
 
+* 98-367: Security Fundamentals
+
+	https://www.youtube.com/playlist?list=PLsrZV8shpwjM_1DN5M-070MXqZPsZYa49
+
+* Powershell For Security Professionals
+
+	https://www.youtube.com/playlist?list=PL8JzjH888lZXQbFCtuB2CXtSDJKKzCL3Y
 
 * Hacking Metasploitable 3
 
     https://www.youtube.com/playlist?list=PLZOToVAK85MpnjpcVtNMwmCxMZRFaY6mT
+
+* DedSec
+
+	https://www.youtube.com/user/gaytony10/playlists
+
+* Black Hills Information Security
+ 
+	https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A/videos?view=0&sort=da&flow=grid
+
+* HACK5
+
+	https://www.youtube.com/user/Hak5Darren/playlists
+
+
 
 ##### *WEB-APP SECURITY* #####
 
@@ -108,34 +134,11 @@
   
     https://www.youtube.com/playlist?list=PL8JzjH888lZVNJgGr7KyJ2QdozxM5fGz4
 
+##### *ANDROID / iOS PENTESING* #####
+
 * Billy Ellis - iOS Hacking/Security Research Tutorials
 
 	https://www.youtube.com/playlist?list=PL-slHQxWd9GkhKu8oXXrIHFI_EoVHQqSA
-
-* 98-367: Security Fundamentals
-
-	https://www.youtube.com/playlist?list=PLsrZV8shpwjM_1DN5M-070MXqZPsZYa49
-
-* Powershell For Security Professionals
-
-	https://www.youtube.com/playlist?list=PL8JzjH888lZXQbFCtuB2CXtSDJKKzCL3Y
-
-
-* DedSec
-
-	https://www.youtube.com/user/gaytony10/playlists
-
-* Black Hills Information Security
- 
-	https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A/videos?view=0&sort=da&flow=grid
-
-* LiveOverflow
-
-	https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w/playlists
-
-* HACK5
-
-	https://www.youtube.com/user/Hak5Darren/playlists
 
 ##### *REVERSE ENGINEERING / DEBUGGING / EXPLOIT DEVELOPMENT* #####
 
@@ -177,7 +180,7 @@
 
 ##### *CRYPTOGRAPHY..* 
 
-* Cryptography Lectures- *PROF. CHRISTOFPARR*
+* Cryptography Lectures- *(PROF.CHRISTOFPARR)*
   
 	https://www.youtube.com/playlist?list=PLoJC20gNfC2gAB-eg7oaUTheB_JgQY4-q
 
