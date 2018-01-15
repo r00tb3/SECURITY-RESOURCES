@@ -2,7 +2,7 @@
 
 **JUST LIKE ME THERE ARE PLENTY OF PEOPLE WHO ARE LOOKING FOR SECURITY RESOURCES AND WE KEEP ON SEARCHING FOR TORRENTS, DRIVE LINKS AND MEGA LINKS WHICH CONSUMES A LOT OF BANDWIDTH SO I DECIDED TO CURATE THE LIST OF PLAY-LIST'S FREELY AVAILABLE ON THE WEB *(MOSTLY ON YOUTUBE)* TO HELP OTHERS GET STARTED IN THE FIELD OF INFOSEC.** 
 
-**THE FOLLOWING LINKS PROVIDED ARE FROM DIFFERENT CHANNEL'S ON YOUTUBE FROM VARIOUS AUTHOR'S TO HELP YOU LEARN I DO NOT OWN THEM I'VE JUST CURATED THEM  TOGEHTER ALL THE CREDIT FOES TO THEM. I KNOW THE LIST IS INCOMPLETE AND THERE MIGHT ME MORE TON'S OF PLAY-LISTS WHICH WILL BE ADDED LATER.**
+**THE FOLLOWING LINKS PROVIDED ARE FROM DIFFERENT CHANNEL'S ON YOUTUBE FROM VARIOUS AUTHOR'S TO HELP YOU LEARN I DO NOT OWN THEM I'VE JUST CURATED THEM  TOGEHTER SO THE CREDIT GOES TO THEM. I KNOW THE LIST IS INCOMPLETE AND THERE MIGHT ME MORE TON'S OF PLAY-LISTS WHICH WILL BE ADDED LATER.**
 
 ***I'D LIKE TO THANK ALL THE AUTHOR'S OF THESE TUTORIALS FOR THEIR CONTRIBUTION IT MEANS A LOT.***
 
@@ -10,8 +10,8 @@
 
 ***I WILL BE UPDATING THIS LIST IN FUTURE SO STAY TUNED!!***
 
-****
-##### *FUNDAMENTALS..* #####
+***
+### *FUNDAMENTALS..* ###
 
 * Computer Science - CRASH COURSE...
 
@@ -57,7 +57,7 @@
 
     https://www.youtube.com/user/hupstream/playlists 
 
-##### *PENETRATION TESTING!!!* #####
+### *PENETRATION TESTING!!!* ###
 
 * Pentester Lab Network
 
@@ -121,7 +121,7 @@
 
 
 
-##### *WEB-APP SECURITY* #####
+### *WEB-APP SECURITY* ###
 
 * Website Security: Web Application Penetration Testing (OWASP TOP 10)
   
@@ -139,13 +139,13 @@
   
     https://www.youtube.com/playlist?list=PL8JzjH888lZVNJgGr7KyJ2QdozxM5fGz4
 
-##### *ANDROID / iOS PENTESING* #####
+### *ANDROID / iOS PENTESING* ###
 
 * Billy Ellis - iOS Hacking/Security Research Tutorials
 
 	https://www.youtube.com/playlist?list=PL-slHQxWd9GkhKu8oXXrIHFI_EoVHQqSA
 
-##### *REVERSE ENGINEERING / DEBUGGING / EXPLOIT DEVELOPMENT* #####
+### *REVERSE ENGINEERING / DEBUGGING / EXPLOIT DEVELOPMENT* ###
 
 
 * Vikram Salunke(x86)
@@ -169,7 +169,7 @@
 	https://www.youtube.com/playlist?list=PLwZPTATC2wFiWN7tjtkjlMSarxkWeOlSo
 
 
-##### *MALWARE ANALYSIS / FORENSICS* #####
+### *MALWARE ANALYSIS / FORENSICS* ###
 
 * MalwareAnalysisForHedgehogs(MALWARE ONLY)
 
@@ -183,7 +183,7 @@
     
 	https://www.youtube.com/playlist?list=PL7gCgFw1RV1NhOR51XXfiDk8ZCmyU_BpG
 
-##### *CRYPTOGRAPHY..* 
+### *CRYPTOGRAPHY..* 
 
 * Cryptography Lectures- *(PROF.CHRISTOFPARR)*
   
@@ -194,13 +194,13 @@
 	https://www.youtube.com/playlist?list=PLBJMt6zV1c7FN3IjBDr9lydgqGzh_SqHV
 
 
-##### *WIRELESS* #####
+### *WIRELESS* ###
 
 * CWNA
   
 	 https://www.youtube.com/playlist?list=PLqBIVzTcm3GEnmKQELxg30sQfAXehdC3f
 
-##### *TELECOMMUNICATIONS SECURITY* #####
+### *TELECOMMUNICATIONS SECURITY* ###
 
 * GSM Training
 
@@ -246,7 +246,7 @@
 
 	https://www.youtube.com/playlist?list=PLPmwwVknVIiXGzKhtimTMjhcyppeRRsnE
 
-##### *GSM EXPLOITATION* #####
+### *GSM EXPLOITATION* ###
 
 * GSM Sniffing & Hacking
 
@@ -266,4 +266,4 @@
 
     https://www.youtube.com/playlist?list=PLktKStRxdIxbxEoPD4M4xIazTpAB5b5Wu
 
-###### *I'LL BE BACK WITH MORE PLAYLIST'S* 
+#### *I'LL BE BACK WITH MORE PLAYLIST'S...* 
