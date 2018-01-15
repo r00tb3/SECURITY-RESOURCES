@@ -1,54 +1,53 @@
 # SECURITY-RESOURCES
 
 ## *FROM BEGINNER TO ADVANCED FOR ALL SECURITY ENTHUSIASTS.*
-
-### *I'LL KEEP UPDATING THIS LIST IN FUTURE STAY TUNED!!*
+## *I'LL KEEP UPDATING THIS LIST IN FUTURE STAY TUNED!!*
 
 ***FUNDAMENTALS..***
 
 * Computer Science - CRASH COURSE...
 
-https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
+  https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
 
 * Basic Courses.(7 courses must do)
 
-https://www.youtube.com/playlist?list=PLktKStRxdIxYV9JSvUe1T-a6VamT9mdHK
+  https://www.youtube.com/playlist?list=PLktKStRxdIxYV9JSvUe1T-a6VamT9mdHK
 
 * CompTIA A+ 901 & 902 
 
-https://www.youtube.com/playlist?list=PLQryb-FUreLBsGjFDmMZfmaCa-0XV-geq
+  https://www.youtube.com/playlist?list=PLQryb-FUreLBsGjFDmMZfmaCa-0XV-geq
 
 * CompTIA Network+ N10-006 Training Course
 
-https://www.youtube.com/playlist?list=PLG49S3nxzAnnXcPUJbwikr2xAcmKljbnQ
+  https://www.youtube.com/playlist?list=PLG49S3nxzAnnXcPUJbwikr2xAcmKljbnQ
 
 * CompTIA Security+ SY0-401 Certification Course - Playlist 1 of 2
 
-https://www.youtube.com/playlist?list=PLG49S3nxzAnkcKd71N4OjSv4cUXNhoPlQ
+  https://www.youtube.com/playlist?list=PLG49S3nxzAnkcKd71N4OjSv4cUXNhoPlQ
 
 * CompTIA Security+ SY0-401 Certification Course - Playlist 2 of 2
 
-https://www.youtube.com/playlist?list=PLG49S3nxzAnlhMM1KV5ST1qi3kI87hMpY
+  https://www.youtube.com/playlist?list=PLG49S3nxzAnlhMM1KV5ST1qi3kI87hMpY
 
 * danscourses(NETWORKING COUSRSES!!!)
 
-https://www.youtube.com/user/danscourses/playlists
+  https://www.youtube.com/user/danscourses/playlists
 
 * 98-366: Networking Fundamentals(MICROSOFT)
 
-https://www.youtube.com/playlist?list=PLsrZV8shpwjMLQZSfvlusAfngXpr58O-A
+  https://www.youtube.com/playlist?list=PLsrZV8shpwjMLQZSfvlusAfngXpr58O-A
 
 * Comprehensive Guide To pfSense 2.3(FIREWALL)
 
-https://www.youtube.com/playlist?list=PLE726R7YUJTePGvo0Zga2juUBxxFTH4Bk
+  https://www.youtube.com/playlist?list=PLE726R7YUJTePGvo0Zga2juUBxxFTH4Bk
 
 * Linux Fundamentals
 
-https://www.youtube.com/playlist?list=PL8A83A276F0D85E70
+  https://www.youtube.com/playlist?list=PL8A83A276F0D85E70
 
 * Kernel Recipes(Conf Talks related to Linux kernel!!)
 
-https://www.youtube.com/user/hupstream/playlists 
+  https://www.youtube.com/user/hupstream/playlists 
 
 ***PENTESTING!!!***
 
