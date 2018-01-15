@@ -50,27 +50,27 @@ https://www.youtube.com/playlist?list=PL8A83A276F0D85E70
 
 https://www.youtube.com/user/hupstream/playlists 
 
-###########################PENTESTING/HACKING..############################
-===========================SAM BOWNE'S SERIES==============================
+***PENTESTING!!!***
 
-Sam Bowne - Ethical Hacking and Network Defense
-	https://www.youtube.com/playlist?list=PL7gCgFw1RV1P94lNy8Xk5UdjwFLVtIOij
+*SAM BOWNE'S SERIES*
 
-Sam Bowne - Securing Web Applications
-	https://www.youtube.com/playlist?list=PL7gCgFw1RV1M6vJFX1RPDhgPZbg9qU3ub
+	- Sam Bowne - Ethical Hacking and Network Defense
+	  https://www.youtube.com/playlist?list=PL7gCgFw1RV1P94lNy8Xk5UdjwFLVtIOij
 
-Sam Bowne - Computer Forensics
-	https://www.youtube.com/playlist?list=PL7gCgFw1RV1NhOR51XXfiDk8ZCmyU_BpG
+	- Sam Bowne - Securing Web Applications
+	  https://www.youtube.com/playlist?list=PL7gCgFw1RV1M6vJFX1RPDhgPZbg9qU3ub
 
-Sam Bowne - Practical Malware Analysis
-	https://www.youtube.com/playlist?list=PL7gCgFw1RV1PgrZftw3kd23cLjobGEStR
+	- Sam Bowne - Computer Forensics
+	  https://www.youtube.com/playlist?list=PL7gCgFw1RV1NhOR51XXfiDk8ZCmyU_BpG
 
-Sam Bowne - Exploit Development
-	https://www.youtube.com/playlist?list=PL7gCgFw1RV1N9Lqfyp-eIgKSb1KTp1ifm
+	- Sam Bowne - Practical Malware Analysis
+	  https://www.youtube.com/playlist?list=PL7gCgFw1RV1PgrZftw3kd23cLjobGEStR
 
-============================================================================
+	- Sam Bowne - Exploit Development
+	  https://www.youtube.com/playlist?list=PL7gCgFw1RV1N9Lqfyp-eIgKSb1KTp1ifm
 
-==========================WEB-APP SECURITY==================================
+
+*WEB-APP SECURITY*
 
 Website Security: Web Application Penetration Testing (OWASP TOP 10)
    https://www.youtube.com/playlist?list=PLp4w7b_XLssS2d2gbkesLY5uSxWoufdkN
