@@ -37,11 +37,7 @@
   * [News | KitGuru](http://www.kitguru.net/tag/news/)
   * [Top news stories - The Tech Report](https://techreport.com/news.x)
   * [TweakTown | Technology content trusted worldwide](http://www.tweaktown.com/)
-  * [Latest ASUS drivers for Windows 10 - Official links - Ivan Ridao Freitas](http://ivanrf.com/en/latest-asus-drivers-for-windows-10/)
-   
-  * [Asus K55VM disassembling and fan cleaning, разборка и чистка ноутбука - YouTube](https://www.youtube.com/watch?v=t3_gxpmDz0k)
-  * [All projects • Hackaday.io](https://hackaday.io/lists)
-  * [Textbook for Electrical Engineering & Electronics](https://www.allaboutcircuits.com/textbook/)
+
 
 ### CS
   * #### Network's
