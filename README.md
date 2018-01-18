@@ -1,4 +1,4 @@
-# SECURITY - RESOURCES : **BEGINNER TO ADVANCED FOR ALL SECURITY FOLKS.**
+# SECURITY - RESOURCES : **BEGINNER TO ADVANCED.**
 
 ![Image](https://github.com/r00tb3/SECURITY-RESOURCES/blob/master/images/cat.jpg)
 
