@@ -22,7 +22,7 @@
     * [Editorials Archives - Hardware Secrets](http://www.hardwaresecrets.com/tag/editorials/)
     * [Memory | Hardware Secrets](http://www.hardwaresecrets.com/category/memory/)
     * [Storage | Hardware Secrets](http://www.hardwaresecrets.com/category/storage/)
-    * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+     
     * [HQarroum/awesome-iot: A curated list of awesome Internet of Things projects and resources.](https://github.com/HQarroum/awesome-iot#table-of-contents)
     * [embedded-boston/awesome-embedded-systems: A curated list of delightful Embedded Systems libraries, RTOSes, modules, references and more!](https://github.com/embedded-boston/awesome-embedded-systems#awesome-embedded-)
     * [Awesome Electronic and Hardware platform](https://gist.github.com/rgaidot/9132b50cdcdb455fccbe#awesome-electronic-and-hardware-platform)
@@ -38,7 +38,7 @@
   * [Top news stories - The Tech Report](https://techreport.com/news.x)
   * [TweakTown | Technology content trusted worldwide](http://www.tweaktown.com/)
   * [Latest ASUS drivers for Windows 10 - Official links - Ivan Ridao Freitas](http://ivanrf.com/en/latest-asus-drivers-for-windows-10/)
-  * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+   
   * [Asus K55VM disassembling and fan cleaning, разборка и чистка ноутбука - YouTube](https://www.youtube.com/watch?v=t3_gxpmDz0k)
   * [All projects • Hackaday.io](https://hackaday.io/lists)
   * [Textbook for Electrical Engineering & Electronics](https://www.allaboutcircuits.com/textbook/)
@@ -92,7 +92,7 @@
       * [Linux Basics « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/linux-basics/)
       * [GNU awk](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md#gnu-awk)
       * [Home | Linux Journey](https://linuxjourney.com/)
-      * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+       
       * [jlevy/the-art-of-command-line: Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line#the-art-of-command-line)
       * [Idnan/bash-guide: A guide to learn bash](https://github.com/Idnan/bash-guide#table-of-contents)
       * [k4m4/terminals-are-sexy: 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.](https://github.com/k4m4/terminals-are-sexy#terminals-are-sexy-)
@@ -103,7 +103,7 @@
       * [Windows 10 release information - current branch, build history](https://technet.microsoft.com/en-us/windows/release-info.aspx?f=255&MSPPError=-2147217396)
       * [Windows Security Downloads](http://www.bleepingcomputer.com/download/windows/security/)
       * [TechBench by WZT (v3.4)](https://tb.rg-adguard.net/index.php?lang=en)
-    * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+     
     * #### OS Dev
       * #### linux-insides
         * [Introduction · Linux Inside](https://0xax.gitbooks.io/linux-insides/content/)
@@ -118,7 +118,7 @@
       * [OSdev | Alex Parker's Website](http://3zanders.co.uk/tags/OSdev/)
       * [OS Development Tutorials on Bona Fide OS Developer](http://www.osdever.net/tutorials/index)
       * [cfenollosa/os-tutorial: How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial#os-tutorial)
-      * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+       
       * [top scoring links : osdev](https://www.reddit.com/r/osdev/top/)
     * #### Kernel Dev
       * [Bran's Kernel Development Tutorial](http://www.osdever.net/bkerndev/index.php)
@@ -151,7 +151,7 @@
       * [A Map to Learn to Code and Become a Software Engineer | Free Code Camp](https://www.freecodecamp.com/map)
       * [Upskill | Essential Web Developer Course | Upskill](http://upskillcourses.com/p/essential-web-developer-course)
       * [Code School - Discover DevTools](http://discover-devtools.codeschool.com/?locale=en)
-      * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+       
       * [bmorelli25/Become-A-Full-Stack-Web-Developer: Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/#100-free-resources-for-learning-full-stack-web-development)
       * [bmorelli25/Become-A-Full-Stack-Web-Developer: Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/#table-of-contents)
     * [Programming · isislab/Project-Ideas Wiki](https://github.com/isislab/Project-Ideas/wiki/Programming#c)
@@ -159,7 +159,7 @@
     * [[Bookmark] The Ultimate Coding Collection ✰ BOOKS ✰ ✰ ✰ TUTORIALS ✰ ✰ ✰ SITES ✰ ✰ ✰ - Page 1](http://www.hackforums.net/showthread.php?tid=3463179)
     * [Here's a SANITIZED list of 530+ free online programming/CS courses (MOOCs) with feedback(i.e. exams/homeworks/assignments) that you can start this month (December 2016) : learnprogramming](https://www.reddit.com/r/learnprogramming/comments/5gr8nw/heres_a_sanitized_list_of_530_free_online/)
     * [MEGATHREAD](https://www.reddit.com/r/learnprogramming/wiki/online)
-    * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+     
     * [OverAPI.com | Collecting all the cheat sheets](http://overapi.com/)
     * [List of Algorithms](http://www.scriptol.com/programming/list-algorithms.php#Cryptography)
     * [Programming Competition,Programming Contest,Online Computer Programming](https://www.codechef.com/)
@@ -172,7 +172,7 @@
     * [Path to a free self-taught education in Computer Science!](https://github.com/open-source-society/computer-science#curriculum)
     * [MattPD/cpplinks: A categorized list of C++ resources.](https://github.com/MattPD/cpplinks#c-links)
     * [How to be low-level programmer](https://github.com/gurugio/lowlevelprogramming-university#Low-Level-Programming-University)
-    * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+     
     * [List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses#table-of-contents)
     * [Developer-Y/cs-video-courses: List of Computer Science courses with video lectures.](https://github.com/Developer-Y/cs-video-courses#table-of-contents)
   * [►Eminent's Guide to Everything (Computers)◄ - Page 1](http://www.hackforums.net/showthread.php?tid=1841258)
@@ -207,11 +207,11 @@
       * [Download - Exploit Exercises](https://exploit-exercises.com/download/)
       * [Backdoor - Security platform](https://backdoor.sdslabs.co/)
       * [Ctf Portal](https://ctfportal.com/challenges)
-      * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+       
       * [Web security VM app - Web Hacking / References - 0x00sec](https://0x00sec.org/t/web-security-vm-app/852)
       * [Vulnerable Web Applications - White Hat Academy](https://ex.whitehat.academy/webapps)
       * [Vulnerable By Design - Search: web app ~ VulnHub](https://www.vulnhub.com/?q=web+app&sort=date-des&type=vm)
-      * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+       
       * [bkerler/exploit_me: Very vulnerable ARM application (CTF style exploitation tutorial)](https://github.com/bkerler/exploit_me#exploit_me)
       * [Embedded Security CTF](https://microcorruption.com/login)
       * [Practice CTF List](http://captf.com/practice-ctf/)
@@ -231,7 +231,7 @@
     * [Mind Maps-ALL](http://www.amanhardikar.com/mindmaps.html)
     * [2017 Flare-On Challenge Solutions « 2017 Flare-On Challenge Solutions | FireEye Inc](https://www.fireeye.com/blog/threat-research/2017/10/2017-flare-on-challenge-solutions.html)
     * [CTF Series : Vulnerable Machines — tech.bitvijays.com](https://bitvijays.github.io/LFC-VulnerableMachines.html#)
-    * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+     
     * [CTFtime.org / All about CTF (Capture The Flag)](https://ctftime.org/)
     * [Introduction · CTF Field Guide](https://trailofbits.github.io/ctf/)
     * [A curated list of CTF frameworks, libraries, resources and softwares](https://github.com/apsdehal/awesome-ctf#contents)
@@ -256,7 +256,7 @@
     * [Pune Chapter - null Community](https://null.co.in/chapters/5-pune)
     * [CanSecWest Applied Security Conference: Vancouver, British Columbia, Canada](https://cansecwest.com/slides.html)
     * [PacSec Applied Security Conference: Tokyo, Japan](https://pacsec.jp/pastevents.html)
-    * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+     
     * [InfoCon Collection: Hacking Conference Audio and Video Archive](https://infocon.org/cons/)
     * [Cybersecurity Conferences 2017 | Complete List of Cyber Security Events, Information Security Conferences, Seminars in the USA, India and the UK](https://infosec-conferences.com/)
     * [GitHub - PaulSec/awesome-sec-talks: A collected list of awesome security talks](https://github.com/PaulSec/awesome-sec-talks#list-of-sec-talksvideos)
@@ -272,7 +272,7 @@
       * [OSCP · Teck_k2](https://teckk2.github.io/category/OSCP.html)
       * [H4oK3/OSCP-Survival-Guide: Kali Linux Offensive Security Certified Professional Survival Exam Guide](https://github.com/H4oK3/OSCP-Survival-Guide#table-of-contents)
       * [OSCP VulnHub Series - YouTube - YouTube](https://www.youtube.com/playlist?list=PLK5YOQDpZKK2GtfxOHw9LQZl3z_f74EoR&app=desktop)
-      * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+       
       * #### Imported
         * #### oscp
           * [OSCP Prepare – EK](https://jivoi.github.io/2015/06/19/oscp-prepare/)
@@ -429,7 +429,7 @@
     * [EECS 588 - Attack Presentations](https://www.eecs.umich.edu/courses/eecs588/attacks.html)
     * [OpenVPN puts packets inside your packets](http://www.saminiir.com/openvpn-puts-packets-inside-your-packets/#tunneling)
     * [Jameson Lopp :: Bitcoin Resources](http://lopp.net/bitcoin.html)
-    * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+     
     * [Boneh Publications by Topic](http://crypto.stanford.edu/~dabo/pubs/pubsbytopic.html)
     * [Vivek Ramachandran - Research Publications](http://vivekramachandran.com/publications.html)
     * [SecurityDocs](https://securitydocs.com/)
@@ -446,7 +446,7 @@
     * [Bugcrowd | Your Elastic Security Team, better security testing through bug bounties and managed security programs](https://bugcrowd.com/user/sign_in)
     * [FireBounty | The Ultimate Bug Bounty List!](https://firebounty.com/)
     * [Bug Bounty Guide](https://bugbountyguide.com/#)
-    * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+     
     * [Issues - project-zero - Project Zero - Monorail](https://bugs.chromium.org/p/project-zero/issues/list?can=1&redir=1)
     * [djadmin/awesome-bug-bounty: A comprehensive curated list of available Bug Bounty & Disclosure Programs and Write-ups.](https://github.com/djadmin/awesome-bug-bounty#awesome-bug-bounty-)
     * [ngalongc/bug-bounty-reference: Inspired by https://github.com/djadmin/awesome-bug-bounty, a list of bug bounty write-up that is categorized by the bug nature](https://github.com/ngalongc/bug-bounty-reference#bug-bounty-reference)
@@ -457,7 +457,7 @@
     * [Tips for for an Information Security Analyst/Pentester career -Episode 1:General and technical hints by Mattia Campagnano 13 years experience Akron OH - network, windows, how to | Peerlyst](https://www.peerlyst.com/posts/tips-for-for-an-information-security-analyst-pentester-career-episode-1-general-and-technical-hints-mattia-campagnano-13-years-experience-akron-oh?trk=explore_page_resources_recent)
     * [offensiveinterview](https://github.com/WebBreacher/offensiveinterview#organization)
     * [yangshun/tech-interview-handbook: 💯 Algorithms, front end and behavioral content for rocking your coding interview](https://github.com/yangshun/tech-interview-handbook#what-is-this)
-  * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+   
   * #### Wiki
     * #### Whatis
       * [Security Learning Guides - Reference from WhatIs.com](http://whatis.techtarget.com/reference/Security-Learning-Guides)
@@ -483,12 +483,12 @@
       * [Mind Maps](http://www.amanhardikar.com/mindmaps.html)
       * [Home · isislab/Project-Ideas Wiki](https://github.com/isislab/Project-Ideas/wiki#resources)
       * [Talks](http://www.primalsecurity.net/talks/)
-      * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+       
       * [[Mega Tutorial Links]A huge Tutorial collection for hackers/Pentesters[updatated] - Page 1](http://hackforums.net/showthread.php?tid=5364263)
       * [[TUT] MEGA HACKING TUTORIAL! [BIGGEST ON HF] COVERS EVERYTHING! - Page 1](http://hackforums.net/showthread.php?tid=4329505)
       * [80+ Best Free Hacking Tutorials | Resources to Become Pro Hacker | FromDev](http://www.fromdev.com/2013/07/Hacking-Tutorials.html)
       * [Hacking Tutorial Compilation Thread - Page 1](http://hackforums.net/showthread.php?tid=4075289)
-      * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+       
       * [Netsec Focus - Learning Resources - Google Sheets](https://docs.google.com/spreadsheets/d/1TD8KTRXvXwy1yU6s7Nz_JuNh7b7fa7pINZuHOVjtAAg/edit#gid=937533738)
       * [Breaking into InfoSec: A Beginners Curriculum | s3ctur](https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum/)
       * [Collection of helpful links part 1 : Kalilinux](https://www.reddit.com/r/Kalilinux/comments/4o3aw1/collection_of_helpful_links_part_1/)
@@ -517,7 +517,7 @@
       * [Anonymity & Darknets « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/news/anonymity-darknets/)
       * [Recon « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/recon/)
       * [Latest Anonyminity topics - 0x00sec](https://0x00sec.org/c/anonyminity)
-      * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+       
       * [System Hardening Checklist - Whonix](https://www.whonix.org/wiki/System_Hardening_Checklist#System_Hardening_Checklist)
       * [Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora - PRISM Break - PRISM Break](https://prism-break.org/en/)
       * [Privacy Tools - Encryption Against Global Mass Surveillance](https://privacytoolsio.github.io/privacytools.io/#resources)
@@ -549,7 +549,7 @@
       * [Whitepapers With Friends](http://www.alexkyte.me/)
       * [Cryptologie | Links](https://cryptologie.net/links)
       * [Jameson Lopp :: Bitcoin Resources](http://lopp.net/bitcoin.html)
-      * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+       
       * [cypherpunk-research](https://github.com/tombusby/cypherpunk-research#cypherpunk-research)
       * [Introduction to Cryptography by Christof Paar - YouTube](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos?flow=list&view=0&sort=da)
       * [Cryptography Lectures - YouTube](https://www.youtube.com/playlist?list=PLoJC20gNfC2gAB-eg7oaUTheB_JgQY4-q)
@@ -594,16 +594,16 @@
       * [Metasploitable 2 Exploitability Guide | Rapid7 Community and Blog](https://community.rapid7.com/docs/DOC-1875)
       * [Leveraging web application vulnerabilities to steal NTLM hashes](https://wildfire.blazeinfosec.com/leveraging-web-application-vulnerabilities-to-steal-ntlm-hashes-2/)
       * [Welcome to Security Idiots!!](http://securityidiots.com/index.html)
-      * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+       
       * [Web Application Exploits and Defenses-interactive](https://google-gruyere.appspot.com/part1)
       * [hacksplaining-web-app sec interactive](https://www.hacksplaining.com/exercises)
       * [vulnerable web application Archives - Darknet - The Darkside](http://www.darknet.org.uk/tag/vulnerable-web-application/)
-      * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+       
       * [PortSwigger.net](http://blog.portswigger.net/)
       * [The Web Application Security Consortium / Threat Classification Enumeration View](http://projects.webappsec.org/w/page/13246970/Threat%20Classification%20Enumeration%20View)
       * [Web Application Security Testing Resources](https://danielmiessler.com/projects/webappsec_testing_resources/#gs.pi7k0tk)
       * [Researcher Resources - Tutorials - Security Research - Bugcrowd Forum](https://forum.bugcrowd.com/t/researcher-resources-tutorials/370)
-      * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+       
       * [appsec-resources/training.md at master · cneill/appsec-resources](https://github.com/cneill/appsec-resources/blob/master/training.md#learning-application-security)
       * [GitHub - paragonie/awesome-appsec: A curated list of resources for learning about application security](https://github.com/paragonie/awesome-appsec#awesome-appsec-)
       * [infoslack/awesome-web-hacking: A list of web application security](https://github.com/infoslack/awesome-web-hacking#table-of-contents)
@@ -643,7 +643,7 @@
       * [An Intro to x86_64 Reverse Engineering | Leo Tindall](https://leotindall.com/tutorial/an-intro-to-x86_64-reverse-engineering/#prerequisites)
       * [FAQ: How to learn reverse-engineering? - gynvael.coldwind//vx.log](http://gynvael.coldwind.pl/?id=664)
       * [yellowbyte/reverse-engineering-reference-manual: Here is a collage of reverse engineering topics that I find interesting](https://github.com/yellowbyte/reverse-engineering-reference-manual#-reverse-engineering-reference-manual-beta-)
-      * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+       
       * [linux-re-101](https://github.com/michalmalik/linux-re-101/blob/master/README.md#linux-re-101)
       * [fdivrp/awesome-reversing: A curated list of awesome reversing resources](https://github.com/fdivrp/awesome-reversing#awesome-reversing)
       * [wtsxDev/reverse-engineering: List of awesome reverse engineering resources](https://github.com/wtsxDev/reverse-engineering#reverse-engineering-resources)
@@ -674,7 +674,7 @@
       * [Reversing & Malware Analysis Training - SecurityTrainings](http://securitytrainings.net/)
       * [Practical Malware Analysis Starter Kit – bluesoul [dot] me](https://bluesoul.me/practical-malware-analysis-starter-kit/)
       * [Set up your own malware analysis lab with VirtualBox, INetSim and Burp – Christophe Tafani-Dereeper](https://blog.christophetd.fr/set-up-your-own-malware-analysis-lab-with-virtualbox-inetsim-and-burp/)
-      * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+       
       * [R00TK1TS!! - Pastebin.com](https://pastebin.com/pDDJj25h)
       * [Malware/Lectures at master · RPISEC/Malware](https://github.com/RPISEC/Malware/tree/master/Lectures)
       * [Most important considerations with Malware Analysis Cheats And Tools list](https://gbhackers.com/malware-analysis-cheat-sheet-and-tools-list/)
@@ -808,7 +808,7 @@
       * [802.11 security. wi-fi protected access and 802.11i :: Networking :: eTutorials.org](http://etutorials.org/Networking/802.11+security.+wi-fi+protected+access+and+802.11i/)
       * [Rootsh3ll Wi-Fi Security and Pentesting series: Preface](http://www.rootsh3ll.com/2015/07/wi-fi-security-and-pentesting-preface/)
       * [Wi-Fi Hacking « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/wi-fi-hacking/)
-      * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+       
       * [Cracking Your Hashes & .cap files (WPA/WPA2) ~ TUT to DIY Included - Page 1](http://hackforums.net/showthread.php?tid=4587445)
       * [[Walkthrough]Kali 2.0 Subterfuge MITM - Page 1](http://hackforums.net/showthread.php?tid=5145725&pid=50014830#pid50014830)
       * [[NEW] Post .CAP & .HCCAP Files Here For Cracking!! HANDSHAKE THREAD V2 - Page 1](http://hackforums.net/showthread.php?tid=5292592)
@@ -842,7 +842,7 @@
       * [Toolkit | Penetration Testing Lab](https://pentestlab.blog/toolkit/)
       * [Whois Lookup, Domain Availability & IP Search - DomainTools](https://whois.domaintools.com/)
       * [A penetration tester’s guide to sub-domain enumeration](https://blog.appsecco.com/a-penetration-testers-guide-to-sub-domain-enumeration-7d842d5570f6)
-      * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+       
       * [HakTip: NMap - The Network Mapper for Gurus - YouTube - YouTube](https://www.youtube.com/playlist?list=PLW5y1tjAOzI0ZLv7YfQtToQmc0yVDfkKO)
       * [HakTip: Netcat - Network Port Scanning, File Transfers, and More! - YouTube - YouTube](https://www.youtube.com/playlist?list=PLW5y1tjAOzI1v-RQ8rAftvqKawXQR87eL)
     * #### Gaining Access
@@ -850,7 +850,7 @@
     * #### Reporting vulnerability
     * [Penetration Testing](http://resources.infosecinstitute.com/category/pen-testing-1/and/post/page/10)
     * [Operating System – Pentest Blog](https://pentest.blog/category/operating-system/)
-    * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+     
     * #### Methodology
       * [Penetrating Testing/Assessment Workflow - WorkFlowy](https://workflowy.com/s/FgBl.6qcAQUUqWM)
       * [Penetration Testing Methodology - 0DAYsecurity.com](http://www.0daysecurity.com/pentest.html)
@@ -858,7 +858,7 @@
       * [The Penetration Testing Execution Standard](http://www.pentest-standard.org/index.php/Main_Page)
       * [Web Application Security Consortium (WASC)](http://www.webappsec.org/projects/threat/)
       * [social-engineer.org](http://www.social-engineer.org/)
-      * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+       
       * [awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets#awesome-pentest-cheat-sheets-)
       * [Cheat Sheets](https://highon.coffee/blog/cheat-sheet/)
       * [Pentesting Cheatsheet – root@Hausec](https://hausec.com/pentesting-cheatsheet/)
@@ -907,7 +907,7 @@
         * [Project Zero: Over The Air - Vol. 2, Pt. 2: Exploiting The Wi-Fi Stack on Apple Devices](https://googleprojectzero.blogspot.in/2017/10/over-air-vol-2-pt-2-exploiting-wi-fi.html)
         * [Project Zero: Over The Air - Vol. 2, Pt. 3: Exploiting The Wi-Fi Stack on Apple Devices](https://googleprojectzero.blogspot.in/2017/10/over-air-vol-2-pt-3-exploiting-wi-fi.html)
       * [The State of Qualcomm's Modems - WTR1605 and MDM9x25](http://www.anandtech.com/show/6541/the-state-of-qualcomms-modems-wtr1605-and-mdm9x25)
-      * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+       
       * [BlackHat_DC_2011_Avraham_ARM Exploitation-wp.2.0.pdf](https://media.blackhat.com/bh-dc-11/Avraham/BlackHat_DC_2011_Avraham_ARM%20Exploitation-wp.2.0.pdf)
       * [iadgov/Maplesyrup: Assesses CPU security of embedded devices. iadgov](https://github.com/iadgov/Maplesyrup#maplesyrup-register-display-tool)
       * [jtagsploitation/Jtagsploitation.pdf at master · syncsrc/jtagsploitation](https://github.com/syncsrc/jtagsploitation/blob/master/Jtagsploitation.pdf)
@@ -917,12 +917,12 @@
       * [Reverse engineering a Qualcomm baseband processor [pdf] : ReverseEngineering](https://www.reddit.com/r/ReverseEngineering/comments/2qufd7/reverse_engineering_a_qualcomm_baseband_processor/)
       * [Quarkslab's blog - IDA](https://blog.quarkslab.com/tag/ida.html)
       * [Comsecuris Security Research & Consulting Blog](https://comsecuris.com/blog/tags/baseband/)
-      * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+       
       * [Search · msm8226](https://github.com/search?o=desc&q=msm8226&s=stars&type=Repositories&utf8=%E2%9C%93)
       * [rpw/hexagon: IDA processor module for the hexagon (QDSP6) processor](https://github.com/rpw/hexagon#hexagon)
       * [Search · baseband](https://github.com/search?q=baseband&type=Repositories&utf8=%E2%9C%93)
       * [Smartphones use a second CPU and second operating system in their baseband modems | AndroidAuthority](https://www.androidauthority.com/smartphones-have-a-second-os-317800/)
-      * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+       
       * [firmware · ǝɹ - Free Online Firmware Unpacker, Scanner, Analyser - Firmware Genomics/Genome Project - Firmware Vulnerability and Backdoor Discovery - Firmware Mounting, Modification, Loading and Emulation - Embedded and Internet-of-Things Security](http://www.firmware.re/)
     * #### NFC & RFID
       * [NFC Card Emulation with ACR122u(PN532) – Salvador Mendoza Blog](https://salmg.net/2017/12/11/acr122upn532-nfc-card-emulation/)
@@ -942,7 +942,7 @@
         * [IoT Security – Part 1 (101 - IoT Introduction and Architecture) - payatu](https://payatu.com/iot-security-part-1-101-iot-introduction-architecture/)
         * [IoT Security – Part 2 (101 - IoT Attack surface) - payatu](https://payatu.com/iot-security-part-2-101-iot-attack-surface/)
       * [Comparison of 802.15.4 radio modules - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_802.15.4_radio_modules#Transceiver-only_modules)
-      * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+       
       * [IoT Security Wiki](https://iotsecuritywiki.com/)
       * [The IoT Wiki - posts about the challenges of securing the IoT by Peerlyst - resource, secure, devices | Peerlyst](https://www.peerlyst.com/posts/the-iot-wiki-posts-about-the-challenges-of-securing-the-iot-peerlyst)
       * [nebgnahz/awesome-iot-hacks: A Collection of Hacks in IoT Space so that we can address them (hopefully).](https://github.com/nebgnahz/awesome-iot-hacks#contents)
@@ -955,7 +955,7 @@
     * [Car Forensics - A Starting Point](https://nop.ninja/b254dd7da1f1463da566b48b09c43aab.php)
     * [The Bad Thing-Publicly available intel exploits](https://www.cs.cmu.edu/~davide/bad_thing.html)
     * [disassembly - Knowledge about CPU hardware - Reverse Engineering Stack Exchange](https://reverseengineering.stackexchange.com/questions/16296/knowledge-about-cpu-hardware/16298#16298)
-    * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+     
     * [Index of /hitbsecconf2016ams/materials](https://conference.hitb.org/hitbsecconf2016ams/materials/)
     * [Publications - Riscure](https://www.riscure.com/publications/)
     * [[Wiki] Your Complete, Un-budgeted Toolkit - Hardware - 0x00sec - The Home of the Hacker](https://0x00sec.org/t/wiki-your-complete-un-budgeted-toolkit/2192)
@@ -1013,7 +1013,7 @@
         * [Open Security Research: Getting Started with GNU Radio and RTL-SDR (on Backtrack)](http://blog.opensecurityresearch.com/2012/06/getting-started-with-gnu-radio-and-rtl.html)
         * [On HSPA+ and 64QAM support in 3GPP Release 7 - This Just In: HP Veer 4G for AT&T](http://www.anandtech.com/show/4324/this-just-in-hp-veer-4g-for-att/2)
         * [QPSK, 16QAM, 64QAM, and HSPA+ - HP Veer 4G Review - Getting Us Excited for Pre 3](http://www.anandtech.com/show/4424/hp-veer-4g-review-getting-us-excited-for-pre-3/9)
-        * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+         
         * [gsm – Going on my way…](https://domonkos.tomcsanyi.net/?tag=gsm)
         * [RF Wireless Downloads Page](http://www.rfwireless-world.com/downloads/)
         * [rtl-sdr Tutorial](http://www.rtl-sdr.com/category/tutorial/)
@@ -1044,7 +1044,7 @@
       * [Overview - Mobile (in)Security - Open Source Mobile Communications](https://osmocom.org/projects/security)
       * [Rashid Feroze, Author at payatu-SDR](http://payatu.com/author/rashid/)
       * [Nitesh Malviya, Author at payatu](https://payatu.com/author/nitesh/)
-      * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+       
       * [websdr.org](http://www.websdr.org/)
       * [Projects - Open Source Mobile Communications](https://osmocom.org/projects)
       * [LTE frequency band](http://niviuk.free.fr/lte_band.php)
@@ -1063,7 +1063,7 @@
     * [Search · GSM security](https://github.com/search?o=desc&q=GSM+security&s=stars&type=Repositories&utf8=%E2%9C%93)
     * [Search · LTE security](https://github.com/search?utf8=%E2%9C%93&q=LTE+security&type=)
     * [ernw/ss7MAPer: SS7 MAP (pen-)testing toolkit](https://github.com/ernw/ss7MAPer#ss7maper)
-    * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+     
     * [airgap | Advanced Cyber-Security Research Lab](http://cyber.bgu.ac.il/advanced-cyber/airgap)
     * [GSM - Overview](https://www.tutorialspoint.com/gsm/gsm_overview.htm)
     * [LTE Overview](https://www.tutorialspoint.com/lte/lte_overview.htm)
@@ -1135,7 +1135,7 @@
     * [Some setup scripts for security research tools.](https://github.com/zardus/ctf-tools#ctf-tools)
     * [A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.](https://github.com/caesar0301/awesome-pcaptools)
     * [an awesome list of honeypot resources](https://github.com/paralax/awesome-honeypots)
-    * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+     
     * [Black Hat Arsenal USA 2017 – Hack with GitHub – Medium](https://medium.com/hack-with-github/black-hat-arsenal-usa-2017-3fb5bd9b5cf2)
     * [wide range mass audit toolkit](https://github.com/leviathan-framework/leviathan#main-features)
     * [The Shadow Brokers "Lost In Translation" leak](https://github.com/misterch0c/shadowbroker#exploits)
@@ -1752,7 +1752,7 @@
       * [black-box-scanners-dimva2010.pdf (application/pdf Object)](http://www.cs.ucsb.edu/~adoupe/static/black-box-scanners-dimva2010.pdf)
       * [Database_Pen_Testing_ISSA_March_25_V2.pdf (application/pdf Object)](http://www.spy-hunter.com/Database_Pen_Testing_ISSA_March_25_V2.pdf)
       * [Stupid htaccess Tricks â€¢ Perishable Press](http://perishablepress.com/press/2006/01/10/stupid-htaccess-tricks/)
-  * [───────────](http://separator.mayastudios.com/index.php?t=horz)
+   
   * #### Vulns/CVE
     * [Google Android : List of security vulnerabilities](http://www.cvedetails.com/vulnerability-list/vendor_id-1224/product_id-19997/Google-Android.html)
     * [Microsoft Windows 8.1 : List of security vulnerabilities](http://www.cvedetails.com/vulnerability-list/vendor_id-26/product_id-26434/Microsoft-Windows-8.1.html)
