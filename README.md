@@ -176,26 +176,27 @@
       * [Programming Competition,Programming Contest,Online Computer Programming](https://www.codechef.com/)
       * [Solve Programming Questions | HackerRank](https://www.hackerrank.com/domains)
      
-  * ### *Core & Advanced CS*
-    * [Online CS Courses - Computer Science](http://www.computerscienceonline.org/courses/)
-    * [Operating System | LeetCode Discuss](https://discuss.leetcode.com/category/767/operating-system)
-    * [A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university#table-of-contents)
-    * [Path to a free self-taught education in Computer Science!](https://github.com/open-source-society/computer-science#curriculum)
-    * [MattPD/cpplinks: A categorized list of C++ resources.](https://github.com/MattPD/cpplinks#c-links)
-    * [How to be low-level programmer](https://github.com/gurugio/lowlevelprogramming-university#Low-Level-Programming-University)
-    * [List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses#table-of-contents)
-    * [Developer-Y/cs-video-courses: List of Computer Science courses with video lectures.](https://github.com/Developer-Y/cs-video-courses#table-of-contents)
+     
+## *Core & Advanced CS*
+  * [Online CS Courses - Computer Science](http://www.computerscienceonline.org/courses/)
+  * [Operating System | LeetCode Discuss](https://discuss.leetcode.com/category/767/operating-system)
+  * [A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university#table-of-contents)
+  * [Path to a free self-taught education in Computer Science!](https://github.com/open-source-society/computer-science#curriculum)
+  * [MattPD/cpplinks: A categorized list of C++ resources.](https://github.com/MattPD/cpplinks#c-links)
+  * [How to be low-level programmer](https://github.com/gurugio/lowlevelprogramming-university#Low-Level-Programming-University)
+  * [List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses#table-of-contents)
+  * [Developer-Y/cs-video-courses: List of Computer Science courses with video lectures.](https://github.com/Developer-Y/cs-video-courses#table-of-contents)
     
     
-  * ### *Virtualization(Images)*
-    * [VirtualBox Images](http://www.osboxes.org/virtualbox-images/)
-    * [A list of base boxes for Vagrant - Vagrantbox.es](http://www.vagrantbox.es/)
+## *Virtualization(Images)*
+  * [VirtualBox Images](http://www.osboxes.org/virtualbox-images/)
+  * [A list of base boxes for Vagrant - Vagrantbox.es](http://www.vagrantbox.es/)
     
     
-  * ### *Cheatsheets* 
-      * [OverAPI.com | Collecting all the cheat sheets](http://overapi.com/)
-      * [List of Algorithms](http://www.scriptol.com/programming/list-algorithms.php#Cryptography)
-      * [HrushikeshK/every-programmer-should-know: A collection of (mostly) technical things every software developer should know](https://github.com/HrushikeshK/every-programmer-should-know#every-programmer-should-know-thinking)
+## *Cheatsheets* 
+  * [OverAPI.com | Collecting all the cheat sheets](http://overapi.com/)
+  * [List of Algorithms](http://www.scriptol.com/programming/list-algorithms.php#Cryptography)
+  * [HrushikeshK/every-programmer-should-know: A collection of (mostly) technical things every software developer should know](https://github.com/HrushikeshK/every-programmer-should-know#every-programmer-should-know-thinking)
 
 
 
