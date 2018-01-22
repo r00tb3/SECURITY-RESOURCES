@@ -57,7 +57,7 @@
 
 ## ***Computer Science***
   * ## *Operating System's*
-    * ### Linux
+    * ### *Linux*
       * #### Linux-Kernel
         * [The Linux Kernel documentation — The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/)
         * [Index of /doc/Documentation](https://www.kernel.org/doc/Documentation/)
@@ -99,12 +99,15 @@
         * [links/external - unixporn](https://www.reddit.com/r/unixporn/wiki/links/external#wiki_tutorials_.2F_guides)
         * [tmux Tutorial — Split Terminal Windows Easily· Łukasz Wróbel](https://lukaszwrobel.pl/blog/tmux-tutorial-split-terminal-windows-easily/)
         * [Basic Git Command Line Reference for Windows Users | John Atten](http://johnatten.com/2012/09/08/basic-git-command-line-reference-for-windows-users/#BASH-CONFIGURE-GIT)
-    * #### Windows
+        
+        
+    * ### *Windows*
       * [Windows 10 release information - current branch, build history](https://technet.microsoft.com/en-us/windows/release-info.aspx?f=255&MSPPError=-2147217396)
       * [Windows Security Downloads](http://www.bleepingcomputer.com/download/windows/security/)
       * [TechBench by WZT (v3.4)](https://tb.rg-adguard.net/index.php?lang=en)
      
-    * #### OS Dev
+     
+    * ### *OS Dev*
       * #### linux-insides
         * [Introduction · Linux Inside](https://0xax.gitbooks.io/linux-insides/content/)
         * [Useful links · Linux Inside](https://0xax.gitbooks.io/linux-insides/content/LINKS.html)
@@ -120,9 +123,13 @@
       * [cfenollosa/os-tutorial: How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial#os-tutorial)
        
       * [top scoring links : osdev](https://www.reddit.com/r/osdev/top/)
-    * #### Kernel Dev
+      
+      
+    * ### *Kernel Dev*
       * [Bran's Kernel Development Tutorial](http://www.osdever.net/bkerndev/index.php)
       * [JamesM's kernel development tutorials](https://web.archive.org/web/20160412174753/http://www.jamesmolloy.co.uk/tutorial_html/index.html)
+      
+      
   * ## *Programming*
     * ### SYSTEM
       * #### C
