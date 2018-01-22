@@ -22,7 +22,6 @@
     * [Editorials Archives - Hardware Secrets](http://www.hardwaresecrets.com/tag/editorials/)
     * [Memory | Hardware Secrets](http://www.hardwaresecrets.com/category/memory/)
     * [Storage | Hardware Secrets](http://www.hardwaresecrets.com/category/storage/)
-     
     * [HQarroum/awesome-iot: A curated list of awesome Internet of Things projects and resources.](https://github.com/HQarroum/awesome-iot#table-of-contents)
     * [embedded-boston/awesome-embedded-systems: A curated list of delightful Embedded Systems libraries, RTOSes, modules, references and more!](https://github.com/embedded-boston/awesome-embedded-systems#awesome-embedded-)
     * [Awesome Electronic and Hardware platform](https://gist.github.com/rgaidot/9132b50cdcdb455fccbe#awesome-electronic-and-hardware-platform)
