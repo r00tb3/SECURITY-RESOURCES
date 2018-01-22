@@ -27,17 +27,19 @@
     * [Awesome Electronic and Hardware platform](https://gist.github.com/rgaidot/9132b50cdcdb455fccbe#awesome-electronic-and-hardware-platform)
     
     
-  * #### *SSD/NVMe*
+  * #### *Memory Types*
     * [Clarification of terminology: SSD vs M.2, vs PCIe vs. NVMe - Storage](http://www.tomshardware.com/answers/id-2776112/clarification-terminology-ssd-pcie-nvme.html#r16514428)
     * [Clarification of terminology: SSD vs M.2, vs PCIe vs. NVMe - Storage](http://www.tomshardware.com/answers/id-2776112/clarification-terminology-ssd-pcie-nvme.html#r16514494)
     * [Beginners Guide Archives | The SSD Review](http://www.thessdreview.com/ssd-guides/beginners-guide/)
-  * [Reviews | techPowerUp](https://www.techpowerup.com/reviews/)
-  * [Tom's Hardware Articles - Find and Filter Our Latest Articles](http://www.tomshardware.com/articles/)
-  * [AnandTech | Pipeline](http://www.anandtech.com/pipeline)
-  * [Gaming News, Hardware News & Modding News | bit-tech.net](http://www.bit-tech.net/news/)
-  * [News | KitGuru](http://www.kitguru.net/tag/news/)
-  * [Top news stories - The Tech Report](https://techreport.com/news.x)
-  * [TweakTown | Technology content trusted worldwide](http://www.tweaktown.com/)
+  
+  * #### *Must read to keep yourself updated.*
+    * [Reviews | techPowerUp](https://www.techpowerup.com/reviews/)
+    * [Tom's Hardware Articles - Find and Filter Our Latest Articles](http://www.tomshardware.com/articles/)
+    * [AnandTech | Pipeline](http://www.anandtech.com/pipeline)
+    * [Gaming News, Hardware News & Modding News | bit-tech.net](http://www.bit-tech.net/news/)
+    * [News | KitGuru](http://www.kitguru.net/tag/news/)
+    * [Top news stories - The Tech Report](https://techreport.com/news.x)
+    * [TweakTown | Technology content trusted worldwide](http://www.tweaktown.com/)
 
 
 ## ***Network's***
@@ -181,7 +183,6 @@
     * [Path to a free self-taught education in Computer Science!](https://github.com/open-source-society/computer-science#curriculum)
     * [MattPD/cpplinks: A categorized list of C++ resources.](https://github.com/MattPD/cpplinks#c-links)
     * [How to be low-level programmer](https://github.com/gurugio/lowlevelprogramming-university#Low-Level-Programming-University)
-     
     * [List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses#table-of-contents)
     * [Developer-Y/cs-video-courses: List of Computer Science courses with video lectures.](https://github.com/Developer-Y/cs-video-courses#table-of-contents)
     
