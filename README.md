@@ -6,7 +6,7 @@
 
 **THE FOLLOWING LINKS PROVIDED ARE FROM DIFFERENT SOURCES FROM VARIOUS AUTHOR'S TO HELP YOU LEARN I DO NOT OWN THEM I'VE JUST CURATED THEM TOGEHTER SO THE CREDIT GOES TO THE AUTHOR'S.**
 
-***I'D LIKE TO THANK ALL THE AUTHOR'S OF THESE TUTORIALS FOR THEIR CONTRIBUTION IT MEANS A LOT.***
+***I'D LIKE TO THANK ALL THE AUTHOR'S OF THESE TUTORIALS THEIR CONTRIBUTION IT MEANS A LOT.***
 
 ***FEEL FREE TO CONTACT ME  AT rootb3r [at] gmail [dot] com TO ADD MORE LINKS TO THIS LIST.*** 
 
@@ -159,24 +159,17 @@
       * [A Map to Learn to Code and Become a Software Engineer | Free Code Camp](https://www.freecodecamp.com/map)
       * [Upskill | Essential Web Developer Course | Upskill](http://upskillcourses.com/p/essential-web-developer-course)
       * [Code School - Discover DevTools](http://discover-devtools.codeschool.com/?locale=en)
-       
       * [bmorelli25/Become-A-Full-Stack-Web-Developer: Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/#100-free-resources-for-learning-full-stack-web-development)
       * [bmorelli25/Become-A-Full-Stack-Web-Developer: Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/#table-of-contents)
       
-      
-    * [Programming · isislab/Project-Ideas Wiki](https://github.com/isislab/Project-Ideas/wiki/Programming#c)
-    * [Michael0x2a/curated-programming-resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md#curated-programming-resources)
-    * [[Bookmark] The Ultimate Coding Collection ✰ BOOKS ✰ ✰ ✰ TUTORIALS ✰ ✰ ✰ SITES ✰ ✰ ✰ - Page 1](http://www.hackforums.net/showthread.php?tid=3463179)
-    * [Here's a SANITIZED list of 530+ free online programming/CS courses (MOOCs) with feedback(i.e. exams/homeworks/assignments) that you can start this month (December 2016) : learnprogramming](https://www.reddit.com/r/learnprogramming/comments/5gr8nw/heres_a_sanitized_list_of_530_free_online/)
-    * [MEGATHREAD](https://www.reddit.com/r/learnprogramming/wiki/online)
+    * ### *Must read & solve programming stuff*
+      * [Programming · isislab/Project-Ideas Wiki](https://github.com/isislab/Project-Ideas/wiki/Programming#c)
+      * [Michael0x2a/curated-programming-resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md#curated-programming-resources)
+      * [Here's a SANITIZED list of 530+ free online programming/CS courses (MOOCs) with feedback(i.e. exams/homeworks/assignments) that you can start this month (December 2016) : learnprogramming](https://www.reddit.com/r/learnprogramming/comments/5gr8nw/heres_a_sanitized_list_of_530_free_online/)
+      * [MEGATHREAD](https://www.reddit.com/r/learnprogramming/wiki/online)
+      * [Programming Competition,Programming Contest,Online Computer Programming](https://www.codechef.com/)
+      * [Solve Programming Questions | HackerRank](https://www.hackerrank.com/domains)
      
-    * [OverAPI.com | Collecting all the cheat sheets](http://overapi.com/)
-    * [List of Algorithms](http://www.scriptol.com/programming/list-algorithms.php#Cryptography)
-    * [Programming Competition,Programming Contest,Online Computer Programming](https://www.codechef.com/)
-    * [Solve Programming Questions | HackerRank](https://www.hackerrank.com/domains)
-    * [HrushikeshK/every-programmer-should-know: A collection of (mostly) technical things every software developer should know](https://github.com/HrushikeshK/every-programmer-should-know#every-programmer-should-know-thinking)
-    
-    
   * ### *Core & Advanced CS*
     * [Online CS Courses - Computer Science](http://www.computerscienceonline.org/courses/)
     * [Operating System | LeetCode Discuss](https://discuss.leetcode.com/category/767/operating-system)
@@ -189,9 +182,15 @@
     * [Developer-Y/cs-video-courses: List of Computer Science courses with video lectures.](https://github.com/Developer-Y/cs-video-courses#table-of-contents)
     
     
-  * [►Eminent's Guide to Everything (Computers)◄ - Page 1](http://www.hackforums.net/showthread.php?tid=1841258)
-  * [VirtualBox Images](http://www.osboxes.org/virtualbox-images/)
-  * [A list of base boxes for Vagrant - Vagrantbox.es](http://www.vagrantbox.es/)
+  * ### *Virtualization(Images)*
+    * [VirtualBox Images](http://www.osboxes.org/virtualbox-images/)
+    * [A list of base boxes for Vagrant - Vagrantbox.es](http://www.vagrantbox.es/)
+    
+    
+  * ### *Cheatsheets* 
+      * [OverAPI.com | Collecting all the cheat sheets](http://overapi.com/)
+      * [List of Algorithms](http://www.scriptol.com/programming/list-algorithms.php#Cryptography)
+      * [HrushikeshK/every-programmer-should-know: A collection of (mostly) technical things every software developer should know](https://github.com/HrushikeshK/every-programmer-should-know#every-programmer-should-know-thinking)
 
 
 
