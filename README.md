@@ -57,6 +57,12 @@
 ## ***Computer Science***
   * ## *Operating System's*
     * ### *Linux*
+      * #### TLDP
+        * [Categorized List of HOWTOs](http://tldp.org/HOWTO/HOWTO-INDEX/categories.html)
+        * [The Linux Documentation Project: Guides](http://www.tldp.org/guides.html)
+        * [LinuxCommand.org: Writing shell scripts.](http://linuxcommand.org/lc3_writing_shell_scripts.php)
+        * [Welcome to Linux From Scratch!](http://linuxfromscratch.org/)
+        * [version - How to understand linux versioning - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/166057/how-to-understand-linux-versioning/166066#166066) 
       * #### Linux-Kernel
         * [The Linux Kernel documentation — The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/)
         * [Index of /doc/Documentation](https://www.kernel.org/doc/Documentation/)
@@ -71,13 +77,6 @@
       * #### Linux-Source
         * [Redhat enterprise Linux / CentOS installing kernel source code](http://www.cyberciti.biz/faq/rhel5-installing-kernel-source-code/)
         * [Linux kernel source code](http://lxr.free-electrons.com/)
-      * #### GUIDES
-      * #### TLDP
-        * [Categorized List of HOWTOs](http://tldp.org/HOWTO/HOWTO-INDEX/categories.html)
-        * [The Linux Documentation Project: Guides](http://www.tldp.org/guides.html)
-       * [LinuxCommand.org: Writing shell scripts.](http://linuxcommand.org/lc3_writing_shell_scripts.php)
-       * [Welcome to Linux From Scratch!](http://linuxfromscratch.org/)
-       * [version - How to understand linux versioning - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/166057/how-to-understand-linux-versioning/166066#166066)
       * #### TAILS
         * [Tails - Create & configure the persistent volume](https://tails.boum.org/doc/first_steps/persistence/configure/index.en.html)
         * [In-depth Guide to Tails + Persistence - Deep Dot Web](https://www.deepdotweb.com/2015/06/05/in-depth-guide-to-tails-persistence/)
@@ -159,7 +158,14 @@
       * [Code School - Discover DevTools](http://discover-devtools.codeschool.com/?locale=en)
       * [bmorelli25/Become-A-Full-Stack-Web-Developer: Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/#100-free-resources-for-learning-full-stack-web-development)
       * [bmorelli25/Become-A-Full-Stack-Web-Developer: Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/#table-of-contents)
-      
+     
+     
+     * ### *Database's* 
+       * [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+       * [PHP MySQL Database](https://www.w3schools.com/sql/sql_ref_mysql.asp)
+       * [MS Access Functions](https://www.w3schools.com/sql/sql_ref_msaccess.asp)
+       * [Oracle Functions](https://www.w3schools.com/sql/sql_ref_oracle.asp)
+    
     * ### *Must read & solve programming stuff*
       * [Programming · isislab/Project-Ideas Wiki](https://github.com/isislab/Project-Ideas/wiki/Programming#c)
       * [Michael0x2a/curated-programming-resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md#curated-programming-resources)
