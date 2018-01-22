@@ -87,12 +87,11 @@
         * [How To Install Ubuntu Linux Alongside Windows 10 (Standard BIOS, non-UEFI) « Everyday Linux User](http://www.everydaylinuxuser.com/2015/11/how-to-install-ubuntu-linux-alongside_8.html)
         * [Linux Documentation](http://linux.die.net/)
         * [Ubuntu Cheat Sheet (Updated for systemd based versions)](http://www.opentechguides.com/how-to/article/ubuntu/135/ubuntu-cheatsheet.html)
-      * #### Other Imp Linux stuff.
+      * #### Other Useful Linux stuff.
         * [RHEL7 Free available resources - CertDepot](https://www.certdepot.net/rhel7-free-available-resources/)
         * [Linux Basics « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/linux-basics/)
         * [GNU awk](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md#gnu-awk)
         * [Home | Linux Journey](https://linuxjourney.com/)
-       
         * [jlevy/the-art-of-command-line: Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line#the-art-of-command-line)
         * [Idnan/bash-guide: A guide to learn bash](https://github.com/Idnan/bash-guide#table-of-contents)
         * [k4m4/terminals-are-sexy: 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.](https://github.com/k4m4/terminals-are-sexy#terminals-are-sexy-)
