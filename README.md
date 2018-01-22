@@ -121,7 +121,6 @@
       * [OSdev | Alex Parker's Website](http://3zanders.co.uk/tags/OSdev/)
       * [OS Development Tutorials on Bona Fide OS Developer](http://www.osdever.net/tutorials/index)
       * [cfenollosa/os-tutorial: How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial#os-tutorial)
-       
       * [top scoring links : osdev](https://www.reddit.com/r/osdev/top/)
       
       
@@ -131,7 +130,7 @@
       
       
   * ## *Programming*
-    * ### SYSTEM
+    * ### *System & Scripting*
       * #### C
         * [C Programming Boot Camp](http://www.gribblelab.org/CBootCamp/index.html)
         * ['c' tag wiki - Stack Overflow](https://stackoverflow.com/tags/c/info)
@@ -178,7 +177,7 @@
     * [HrushikeshK/every-programmer-should-know: A collection of (mostly) technical things every software developer should know](https://github.com/HrushikeshK/every-programmer-should-know#every-programmer-should-know-thinking)
     
     
-  * ### *CORE+ADV CS*
+  * ### *Core & Advanced CS*
     * [Online CS Courses - Computer Science](http://www.computerscienceonline.org/courses/)
     * [Operating System | LeetCode Discuss](https://discuss.leetcode.com/category/767/operating-system)
     * [A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university#table-of-contents)
@@ -188,9 +187,12 @@
      
     * [List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses#table-of-contents)
     * [Developer-Y/cs-video-courses: List of Computer Science courses with video lectures.](https://github.com/Developer-Y/cs-video-courses#table-of-contents)
+    
+    
   * [►Eminent's Guide to Everything (Computers)◄ - Page 1](http://www.hackforums.net/showthread.php?tid=1841258)
   * [VirtualBox Images](http://www.osboxes.org/virtualbox-images/)
   * [A list of base boxes for Vagrant - Vagrantbox.es](http://www.vagrantbox.es/)
+
 
 
 ## Infosec
