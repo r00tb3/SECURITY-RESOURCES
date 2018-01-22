@@ -42,7 +42,7 @@
 
 
 ## ***Network's***
- * ## *CCNA*
+ * ### *CCNA*
    * [Home - Skillset](https://www.skillset.com/#)
    * [CCNA Certification Training](https://www.internetworktraining.com/question.aspx?quiz=0&cert=1)
    * [CCNA Routing & Switching (200-120) Practice Exam | Free CCNA Workbook](http://www.freeccnaworkbook.com/workbooks/ccna/ccna-practice-exam)
@@ -57,7 +57,7 @@
 
 ## ***Computer Science***
   * ## *Operating System's*
-    * #### Linux
+    * ### Linux
       * #### Linux-Kernel
         * [The Linux Kernel documentation — The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/)
         * [Index of /doc/Documentation](https://www.kernel.org/doc/Documentation/)
@@ -124,7 +124,7 @@
       * [Bran's Kernel Development Tutorial](http://www.osdever.net/bkerndev/index.php)
       * [JamesM's kernel development tutorials](https://web.archive.org/web/20160412174753/http://www.jamesmolloy.co.uk/tutorial_html/index.html)
   * ## *Programming*
-    * #### SYSTEM
+    * ### SYSTEM
       * #### C
         * [C Programming Boot Camp](http://www.gribblelab.org/CBootCamp/index.html)
         * ['c' tag wiki - Stack Overflow](https://stackoverflow.com/tags/c/info)
@@ -146,7 +146,9 @@
         * [Captainarash/The_Holy_Book_of_X86: A complete guide to x86 architecture, assembly, memory management, paging, segmentation, SMM, BIOS....](https://github.com/Captainarash/The_Holy_Book_of_X86#heres-a-quick-overview-of-the-content-current-content)
       * [Programming Tutorials, Articles and Examples](http://www.programiz.com/)
       * [Scripting « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/scripting/)
-    * #### *Web-Dev*
+      
+      
+    * ### *Web-Dev*
       * [PHP | Codecademy](https://www.codecademy.com/en/tracks/php)
       * [A Map to Learn to Code and Become a Software Engineer | Free Code Camp](https://www.freecodecamp.com/map)
       * [Upskill | Essential Web Developer Course | Upskill](http://upskillcourses.com/p/essential-web-developer-course)
@@ -154,6 +156,8 @@
        
       * [bmorelli25/Become-A-Full-Stack-Web-Developer: Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/#100-free-resources-for-learning-full-stack-web-development)
       * [bmorelli25/Become-A-Full-Stack-Web-Developer: Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/#table-of-contents)
+      
+      
     * [Programming · isislab/Project-Ideas Wiki](https://github.com/isislab/Project-Ideas/wiki/Programming#c)
     * [Michael0x2a/curated-programming-resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md#curated-programming-resources)
     * [[Bookmark] The Ultimate Coding Collection ✰ BOOKS ✰ ✰ ✰ TUTORIALS ✰ ✰ ✰ SITES ✰ ✰ ✰ - Page 1](http://www.hackforums.net/showthread.php?tid=3463179)
@@ -165,6 +169,8 @@
     * [Programming Competition,Programming Contest,Online Computer Programming](https://www.codechef.com/)
     * [Solve Programming Questions | HackerRank](https://www.hackerrank.com/domains)
     * [HrushikeshK/every-programmer-should-know: A collection of (mostly) technical things every software developer should know](https://github.com/HrushikeshK/every-programmer-should-know#every-programmer-should-know-thinking)
+    
+    
   * ### *CORE+ADV CS*
     * [Online CS Courses - Computer Science](http://www.computerscienceonline.org/courses/)
     * [Operating System | LeetCode Discuss](https://discuss.leetcode.com/category/767/operating-system)
@@ -178,6 +184,7 @@
   * [►Eminent's Guide to Everything (Computers)◄ - Page 1](http://www.hackforums.net/showthread.php?tid=1841258)
   * [VirtualBox Images](http://www.osboxes.org/virtualbox-images/)
   * [A list of base boxes for Vagrant - Vagrantbox.es](http://www.vagrantbox.es/)
+
 
 ## Infosec
   * ### Books
