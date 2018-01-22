@@ -15,7 +15,7 @@
 ***EDIT 1: NOW OTHER LINKS INCLUDED TOO.***
 ***
 
-### Hardware
+## Hardware
   * #### Embedded/Core
     * [The PIC Tutorial - Flash Tutorials](http://pictutorials.com/Flash_Tutorials.htm)
     * [Microcontroller Basics, Types and Applications](http://www.electronicshub.org/microcontrollers/)
@@ -39,8 +39,8 @@
   * [TweakTown | Technology content trusted worldwide](http://www.tweaktown.com/)
 
 
-### CS
-  * #### Network's
+## CS
+  * ## Network's
     * #### CCNA
       * #### Mock Exams
         * [Home - Skillset](https://www.skillset.com/#)
@@ -53,7 +53,7 @@
     * [The TCP/IP Guide - Table Of Contents](http://www.tcpipguide.com/free/t_toc.htm)
     * [Network Switch 101](http://www.tomshardware.com/reviews/network-switch-basics,4123.html#p1)
     * [How to decode Ethernet Frames? | NerdCrunch](http://nerdcrunch.com/2011/05/09/how-to-decode-ethernet-frames/)
-  * #### System's
+  * ## System's
     * #### Linux
       * #### Linux-Kernel
         * [The Linux Kernel documentation — The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/)
@@ -119,7 +119,7 @@
     * #### Kernel Dev
       * [Bran's Kernel Development Tutorial](http://www.osdever.net/bkerndev/index.php)
       * [JamesM's kernel development tutorials](https://web.archive.org/web/20160412174753/http://www.jamesmolloy.co.uk/tutorial_html/index.html)
-  * #### Programming
+  * ## Programming
     * #### SYSTEM
       * #### C
         * [C Programming Boot Camp](http://www.gribblelab.org/CBootCamp/index.html)
@@ -161,7 +161,7 @@
     * [Programming Competition,Programming Contest,Online Computer Programming](https://www.codechef.com/)
     * [Solve Programming Questions | HackerRank](https://www.hackerrank.com/domains)
     * [HrushikeshK/every-programmer-should-know: A collection of (mostly) technical things every software developer should know](https://github.com/HrushikeshK/every-programmer-should-know#every-programmer-should-know-thinking)
-  * #### CORE+ADV CS
+  * ### CORE+ADV CS
     * [Online CS Courses - Computer Science](http://www.computerscienceonline.org/courses/)
     * [Operating System | LeetCode Discuss](https://discuss.leetcode.com/category/767/operating-system)
     * [A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university#table-of-contents)
@@ -175,8 +175,8 @@
   * [VirtualBox Images](http://www.osboxes.org/virtualbox-images/)
   * [A list of base boxes for Vagrant - Vagrantbox.es](http://www.vagrantbox.es/)
 
-### Infosec
-  * #### Books
+## Infosec
+  * ### Books
     * [Amazon.in: Last 90 days - Computer Security / Computing, Internet & Digital Media: Books](http://www.amazon.in/s/ref=sr_st_smooth-review-rank?fst=as%3Aoff&rh=n%3A976389031%2Cn%3A!976390031%2Cn%3A1318105031%2Cn%3A1318109031%2Cp_n_publication_date%3A2684820031&qid=1491582563&bbn=1318109031&sort=smooth-review-rank&ajr=2)
     * [Packt Publishing | "Community Experience, Distilled"](http://www.packtpub.com/all?search=&category_list%5BNetworking+%26+Servers%5D=Networking+%26+Servers&offset=&rows=&sort=)
     * [Recommended Reading | The Homepage of @attrc](http://dfir.org/?q=node/8)
