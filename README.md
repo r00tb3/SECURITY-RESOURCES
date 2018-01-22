@@ -15,8 +15,8 @@
 ***EDIT 1: NOW OTHER LINKS INCLUDED TOO.***
 ***
 
-## Hardware
-  * #### Embedded/Core
+## ***Hardware***
+  * #### *Embedded/Core*
     * [The PIC Tutorial - Flash Tutorials](http://pictutorials.com/Flash_Tutorials.htm)
     * [Microcontroller Basics, Types and Applications](http://www.electronicshub.org/microcontrollers/)
     * [Editorials Archives - Hardware Secrets](http://www.hardwaresecrets.com/tag/editorials/)
@@ -26,7 +26,9 @@
     * [HQarroum/awesome-iot: A curated list of awesome Internet of Things projects and resources.](https://github.com/HQarroum/awesome-iot#table-of-contents)
     * [embedded-boston/awesome-embedded-systems: A curated list of delightful Embedded Systems libraries, RTOSes, modules, references and more!](https://github.com/embedded-boston/awesome-embedded-systems#awesome-embedded-)
     * [Awesome Electronic and Hardware platform](https://gist.github.com/rgaidot/9132b50cdcdb455fccbe#awesome-electronic-and-hardware-platform)
-  * #### SSD/NVMe
+    
+    
+  * #### *SSD/NVMe*
     * [Clarification of terminology: SSD vs M.2, vs PCIe vs. NVMe - Storage](http://www.tomshardware.com/answers/id-2776112/clarification-terminology-ssd-pcie-nvme.html#r16514428)
     * [Clarification of terminology: SSD vs M.2, vs PCIe vs. NVMe - Storage](http://www.tomshardware.com/answers/id-2776112/clarification-terminology-ssd-pcie-nvme.html#r16514494)
     * [Beginners Guide Archives | The SSD Review](http://www.thessdreview.com/ssd-guides/beginners-guide/)
@@ -39,21 +41,22 @@
   * [TweakTown | Technology content trusted worldwide](http://www.tweaktown.com/)
 
 
-## CS
-  * ## Network's
-    * #### CCNA
-      * #### Mock Exams
-        * [Home - Skillset](https://www.skillset.com/#)
-        * [CCNA Certification Training](https://www.internetworktraining.com/question.aspx?quiz=0&cert=1)
-        * [CCNA Routing & Switching (200-120) Practice Exam | Free CCNA Workbook](http://www.freeccnaworkbook.com/workbooks/ccna/ccna-practice-exam)
-      * [SubnettingPractice.com](http://subnettingpractice.com/)
-      * [Learning about subnet masking, CIDR Notation, and TCP/IP](https://gist.github.com/alexkapps/7e63072dad146cf93a7b9101e725aab9)
-      * [Free Cisco CCNA and CCNP study guides](http://www.techexams.net/citechnotes.shtml)
-      * [CCNA Workbooks | Free CCNA Workbook](https://www.freeccnaworkbook.com/workbooks)
-    * [The TCP/IP Guide - Table Of Contents](http://www.tcpipguide.com/free/t_toc.htm)
-    * [Network Switch 101](http://www.tomshardware.com/reviews/network-switch-basics,4123.html#p1)
-    * [How to decode Ethernet Frames? | NerdCrunch](http://nerdcrunch.com/2011/05/09/how-to-decode-ethernet-frames/)
-  * ## System's
+## ***Network's***
+ * ## *CCNA*
+   * [Home - Skillset](https://www.skillset.com/#)
+   * [CCNA Certification Training](https://www.internetworktraining.com/question.aspx?quiz=0&cert=1)
+   * [CCNA Routing & Switching (200-120) Practice Exam | Free CCNA Workbook](http://www.freeccnaworkbook.com/workbooks/ccna/ccna-practice-exam)
+   * [SubnettingPractice.com](http://subnettingpractice.com/)
+   * [Learning about subnet masking, CIDR Notation, and TCP/IP](https://gist.github.com/alexkapps/7e63072dad146cf93a7b9101e725aab9)
+   * [Free Cisco CCNA and CCNP study guides](http://www.techexams.net/citechnotes.shtml)
+   * [CCNA Workbooks | Free CCNA Workbook](https://www.freeccnaworkbook.com/workbooks)
+  * [The TCP/IP Guide - Table Of Contents](http://www.tcpipguide.com/free/t_toc.htm)
+  * [Network Switch 101](http://www.tomshardware.com/reviews/network-switch-basics,4123.html#p1)
+  * [How to decode Ethernet Frames? | NerdCrunch](http://nerdcrunch.com/2011/05/09/how-to-decode-ethernet-frames/)
+
+
+## ***Computer Science***
+  * ## *Operating System's*
     * #### Linux
       * #### Linux-Kernel
         * [The Linux Kernel documentation — The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/)
@@ -70,12 +73,12 @@
         * [Redhat enterprise Linux / CentOS installing kernel source code](http://www.cyberciti.biz/faq/rhel5-installing-kernel-source-code/)
         * [Linux kernel source code](http://lxr.free-electrons.com/)
       * #### GUIDES
-        * #### TLDP
-          * [Categorized List of HOWTOs](http://tldp.org/HOWTO/HOWTO-INDEX/categories.html)
-          * [The Linux Documentation Project: Guides](http://www.tldp.org/guides.html)
-        * [LinuxCommand.org: Writing shell scripts.](http://linuxcommand.org/lc3_writing_shell_scripts.php)
-        * [Welcome to Linux From Scratch!](http://linuxfromscratch.org/)
-        * [version - How to understand linux versioning - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/166057/how-to-understand-linux-versioning/166066#166066)
+      * #### TLDP
+        * [Categorized List of HOWTOs](http://tldp.org/HOWTO/HOWTO-INDEX/categories.html)
+        * [The Linux Documentation Project: Guides](http://www.tldp.org/guides.html)
+       * [LinuxCommand.org: Writing shell scripts.](http://linuxcommand.org/lc3_writing_shell_scripts.php)
+       * [Welcome to Linux From Scratch!](http://linuxfromscratch.org/)
+       * [version - How to understand linux versioning - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/166057/how-to-understand-linux-versioning/166066#166066)
       * #### TAILS
         * [Tails - Create & configure the persistent volume](https://tails.boum.org/doc/first_steps/persistence/configure/index.en.html)
         * [In-depth Guide to Tails + Persistence - Deep Dot Web](https://www.deepdotweb.com/2015/06/05/in-depth-guide-to-tails-persistence/)
@@ -84,17 +87,18 @@
         * [How To Install Ubuntu Linux Alongside Windows 10 (Standard BIOS, non-UEFI) « Everyday Linux User](http://www.everydaylinuxuser.com/2015/11/how-to-install-ubuntu-linux-alongside_8.html)
         * [Linux Documentation](http://linux.die.net/)
         * [Ubuntu Cheat Sheet (Updated for systemd based versions)](http://www.opentechguides.com/how-to/article/ubuntu/135/ubuntu-cheatsheet.html)
-      * [RHEL7 Free available resources - CertDepot](https://www.certdepot.net/rhel7-free-available-resources/)
-      * [Linux Basics « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/linux-basics/)
-      * [GNU awk](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md#gnu-awk)
-      * [Home | Linux Journey](https://linuxjourney.com/)
+      * #### Other Imp Linux stuff.
+        * [RHEL7 Free available resources - CertDepot](https://www.certdepot.net/rhel7-free-available-resources/)
+        * [Linux Basics « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/linux-basics/)
+        * [GNU awk](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md#gnu-awk)
+        * [Home | Linux Journey](https://linuxjourney.com/)
        
-      * [jlevy/the-art-of-command-line: Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line#the-art-of-command-line)
-      * [Idnan/bash-guide: A guide to learn bash](https://github.com/Idnan/bash-guide#table-of-contents)
-      * [k4m4/terminals-are-sexy: 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.](https://github.com/k4m4/terminals-are-sexy#terminals-are-sexy-)
-      * [links/external - unixporn](https://www.reddit.com/r/unixporn/wiki/links/external#wiki_tutorials_.2F_guides)
-      * [tmux Tutorial — Split Terminal Windows Easily· Łukasz Wróbel](https://lukaszwrobel.pl/blog/tmux-tutorial-split-terminal-windows-easily/)
-      * [Basic Git Command Line Reference for Windows Users | John Atten](http://johnatten.com/2012/09/08/basic-git-command-line-reference-for-windows-users/#BASH-CONFIGURE-GIT)
+        * [jlevy/the-art-of-command-line: Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line#the-art-of-command-line)
+        * [Idnan/bash-guide: A guide to learn bash](https://github.com/Idnan/bash-guide#table-of-contents)
+        * [k4m4/terminals-are-sexy: 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.](https://github.com/k4m4/terminals-are-sexy#terminals-are-sexy-)
+        * [links/external - unixporn](https://www.reddit.com/r/unixporn/wiki/links/external#wiki_tutorials_.2F_guides)
+        * [tmux Tutorial — Split Terminal Windows Easily· Łukasz Wróbel](https://lukaszwrobel.pl/blog/tmux-tutorial-split-terminal-windows-easily/)
+        * [Basic Git Command Line Reference for Windows Users | John Atten](http://johnatten.com/2012/09/08/basic-git-command-line-reference-for-windows-users/#BASH-CONFIGURE-GIT)
     * #### Windows
       * [Windows 10 release information - current branch, build history](https://technet.microsoft.com/en-us/windows/release-info.aspx?f=255&MSPPError=-2147217396)
       * [Windows Security Downloads](http://www.bleepingcomputer.com/download/windows/security/)
@@ -119,7 +123,7 @@
     * #### Kernel Dev
       * [Bran's Kernel Development Tutorial](http://www.osdever.net/bkerndev/index.php)
       * [JamesM's kernel development tutorials](https://web.archive.org/web/20160412174753/http://www.jamesmolloy.co.uk/tutorial_html/index.html)
-  * ## Programming
+  * ## *Programming*
     * #### SYSTEM
       * #### C
         * [C Programming Boot Camp](http://www.gribblelab.org/CBootCamp/index.html)
@@ -142,7 +146,7 @@
         * [Captainarash/The_Holy_Book_of_X86: A complete guide to x86 architecture, assembly, memory management, paging, segmentation, SMM, BIOS....](https://github.com/Captainarash/The_Holy_Book_of_X86#heres-a-quick-overview-of-the-content-current-content)
       * [Programming Tutorials, Articles and Examples](http://www.programiz.com/)
       * [Scripting « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/scripting/)
-    * #### Web-Dev
+    * #### *Web-Dev*
       * [PHP | Codecademy](https://www.codecademy.com/en/tracks/php)
       * [A Map to Learn to Code and Become a Software Engineer | Free Code Camp](https://www.freecodecamp.com/map)
       * [Upskill | Essential Web Developer Course | Upskill](http://upskillcourses.com/p/essential-web-developer-course)
@@ -161,7 +165,7 @@
     * [Programming Competition,Programming Contest,Online Computer Programming](https://www.codechef.com/)
     * [Solve Programming Questions | HackerRank](https://www.hackerrank.com/domains)
     * [HrushikeshK/every-programmer-should-know: A collection of (mostly) technical things every software developer should know](https://github.com/HrushikeshK/every-programmer-should-know#every-programmer-should-know-thinking)
-  * ### CORE+ADV CS
+  * ### *CORE+ADV CS*
     * [Online CS Courses - Computer Science](http://www.computerscienceonline.org/courses/)
     * [Operating System | LeetCode Discuss](https://discuss.leetcode.com/category/767/operating-system)
     * [A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university#table-of-contents)
